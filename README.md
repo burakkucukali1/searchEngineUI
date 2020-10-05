@@ -1,5 +1,5 @@
 # # Search Engine UI (Test Case)
-**Live Link:** [https://burakkucukali1.github.io/testCase/](https://burakkucukali1.github.io/testCase//)
+**Live Link:** [https://burakkucukali1.github.io/searchEngineUI/](https://burakkucukali1.github.io/searchEngineUI/)
 
 
 ### Features
@@ -60,4 +60,3 @@ To check search engine you can use these data: "Item", "Deneme", "Ktem", "Ztem",
 >run unit tests
 
     npm run unit:test
-    
